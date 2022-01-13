@@ -1,0 +1,8 @@
+&INPUT
+   N = 10
+   itermax = 10000
+   T0 = 10.
+   tolerance = 1e-3
+   output = 0
+   algorithm = 2
+/
